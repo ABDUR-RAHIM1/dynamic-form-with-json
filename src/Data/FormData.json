@@ -1,0 +1,26 @@
+{
+    "formFields": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Enter your name",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "type": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "id": "message",
+        "label": "Message",
+        "type": "textarea",
+        "placeholder": "Enter your message",
+        "required": false
+      }
+    ]
+  }
+  
